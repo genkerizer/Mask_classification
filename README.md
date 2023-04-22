@@ -1,4 +1,4 @@
-# Facemask Recognition
+# Facemask classification
 
 ## Giới Thiệu
 
@@ -72,5 +72,7 @@ is_mask_exist = predict(model, img)
 - Nguyễn Đăng Khoa - 22C15010
 
 - Phạm Minh Thạch - 22C15018
+
+- Nguyễn Hoàng Linh - 22C11009
 
 
